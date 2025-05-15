@@ -20,6 +20,6 @@ fi
 
 echo "Installing dependencies..."
 
-pip3 install flask boto3 python-dotenv
+pip3 install flask boto3 python-dotenv pytest
 
 echo "Dependencies successfully installed"
